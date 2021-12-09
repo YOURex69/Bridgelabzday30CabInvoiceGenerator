@@ -1,0 +1,14 @@
+D:\bridgelabz\.NET problems\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\netcoreapp3.1\CabInvoiceGenerator.exe
+D:\bridgelabz\.NET problems\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\netcoreapp3.1\CabInvoiceGenerator.deps.json
+D:\bridgelabz\.NET problems\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\netcoreapp3.1\CabInvoiceGenerator.runtimeconfig.json
+D:\bridgelabz\.NET problems\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\netcoreapp3.1\CabInvoiceGenerator.runtimeconfig.dev.json
+D:\bridgelabz\.NET problems\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\netcoreapp3.1\CabInvoiceGenerator.dll
+D:\bridgelabz\.NET problems\CabInvoiceGenerator\CabInvoiceGenerator\bin\Debug\netcoreapp3.1\CabInvoiceGenerator.pdb
+D:\bridgelabz\.NET problems\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\netcoreapp3.1\CabInvoiceGenerator.csproj.AssemblyReference.cache
+D:\bridgelabz\.NET problems\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\netcoreapp3.1\CabInvoiceGenerator.GeneratedMSBuildEditorConfig.editorconfig
+D:\bridgelabz\.NET problems\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\netcoreapp3.1\CabInvoiceGenerator.AssemblyInfoInputs.cache
+D:\bridgelabz\.NET problems\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\netcoreapp3.1\CabInvoiceGenerator.AssemblyInfo.cs
+D:\bridgelabz\.NET problems\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\netcoreapp3.1\CabInvoiceGenerator.csproj.CoreCompileInputs.cache
+D:\bridgelabz\.NET problems\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\netcoreapp3.1\CabInvoiceGenerator.dll
+D:\bridgelabz\.NET problems\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\netcoreapp3.1\CabInvoiceGenerator.pdb
+D:\bridgelabz\.NET problems\CabInvoiceGenerator\CabInvoiceGenerator\obj\Debug\netcoreapp3.1\CabInvoiceGenerator.genruntimeconfig.cache
